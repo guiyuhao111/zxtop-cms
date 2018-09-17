@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link type="text/css" rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
+  
+    <style>
+        .login-banner {
+            width: 100%;
+            position: relative;
+        }
+
+        .login-banner img {
+            width: 100%;
+        }
+
+        .login-logo {
+            text-align: center;
+        }
+
+        .login-logo img {
+            margin: 15px 0;
+            width: auto;
+        }
+
+        .footer {
+            text-align: center;
+            margin: 15px 0;
+            background: #fff;
+        }
+
+        .footer p {
+            color: #6a6a6a;
+        }
+
+        #user, #pass {
+            position: absolute;
+        }
+
+        #user {
+            width: 10%;
+            font-size: 10px;
+            height: 7%;
+            left: 60%;
+            top: 26.5%;
+            border: 0;
+        }
+
+        #pass {
+            width: 10%;
+            font-size: 10px;
+            height: 7%;
+            left: 60%;
+            top: 39.9%;
+            border: 0;
+        }
+
+        .login1 {
+            top: 55%;
+            left: 57.3%;
+            position: absolute;
+            width: 14%;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .login2 {
+            top: 67%;
+            left: 57.3%;
+            position: absolute;
+            width: 14%;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .login1 a {
+            width: 100px;
+            height: 30px;
+            display: block;
+        }
+
+        .login2 a {
+            width: 100px;
+            height: 30px;
+            display: block;
+        }
+
+    </style>
+    <script type="text/javascript">
+        function fontAuto(width) {//width表示效果图的宽度
+            var screenWidth = document.documentElement.clientWidth;//屏幕的宽度
+            //document.documentElement表示html标签
+            if (screenWidth >= width)//当设备的宽度大于等于效果图的宽度
+            {
+                document.documentElement.style.fontSize = "625%";
+            }
+            else {//当设备的宽度小于效果图的宽度
+                document.documentElement.style.fontSize = (625 * screenWidth / width) + "%";
+            }
+        }
+
+        fontAuto(750);//网页加载的时候触发
+        window.onresize = function () {//当网页宽度发生变化时触发函数
+            fontAuto(750);
+        }
+    </script>
+</head>
+<body>
+<div class="login">
+    <div class="layui-row">
+        <div class="layui-col-md12 login-logo">
+            <img src="images/login-logo.png" alt="">
+        </div>
+    </div>
+    <div class="login-banner">
+        <img src="images/loginbox.jpg" alt="">
+        <input type="text" id="user" placeholder="用户名/手机/邮箱">
+        <input type="password" id="pass" placeholder="密码">
+        <div style="cursor: pointer;" class="login1" onclick="window.open('https://www.baidu.com/')">
+            <a href=""></a>
+        </div>
+        <div style="cursor: pointer;" class="login2" onclick="window.open('https://www.baidu.com/')">
+            <a href=""></a>
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    <p>宁波海曙政协 版权所有</p>
+    <p>主办单位:中国人民政治协商会议宁波市海曙区委员会</p>
+    <p>Copyright 2007. All Rights Reseerved     浙ICP备12033621号</p>
+    <p>技术支持：宁波市卓信信息技术有限公司</p>
+</div>
+</body>
+</html>
