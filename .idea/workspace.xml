@@ -1,60 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae90dc21-f687-44ee-b6c1-a7ab8f7b526c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/config.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/layui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html" afterDir="false" />
+    <list default="true" id="ae90dc21-f687-44ee-b6c1-a7ab8f7b526c" name="Default" comment="添加layui框架">
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/NEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/dygl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/help.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/hygl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/login-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/login-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/loginbox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/right-line.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/soso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/tagl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/tongzhi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/xiaoxi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/images/xz.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins_font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins_font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins_font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins_font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins_font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins_font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/static/plugins_font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,8 +56,8 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="125">
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,11 +66,76 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServletInitializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/ServletInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CmsWebApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/CmsWebApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="100">
+              <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1125" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="55" column="66" lean-forward="true" selection-start-line="55" selection-start-column="66" selection-end-line="55" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -119,11 +165,11 @@
         <option value="$PROJECT_DIR$/cms-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/cms-web/pom.xml" />
         <option value="$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/CmsWebApplication.java" />
-        <option value="$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/cms-web/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/lay/config.html" />
         <option value="$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/config.js" />
         <option value="$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html" />
       </list>
     </option>
@@ -144,62 +190,158 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1913" />
+    <option name="width" value="1932" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ZXTOP-OA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZXTOP-OA" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ZXTOP-OA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZXTOP-OA" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="cms-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ZXTOP-OA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZXTOP-OA" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="cms-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ZXTOP-OA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZXTOP-OA" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="cms-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ZXTOP-OA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZXTOP-OA" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="cms-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ZXTOP-OA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZXTOP-OA" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="layui" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins_font-awesome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins_font-awesome" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="cms-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="cms-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,21 +364,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1553398" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\plugins\font-awesome\fonts" />
-      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\js\lay" />
-      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\js\modules" />
-      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\js" />
-      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\templates\css\layui" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\cms\cms-web\src\main\resources\static\plugins_font-awesome" />
       <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\plugins\font-awesome\css" />
       <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\plugins\font-awesome" />
       <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\js\lay" />
       <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\css" />
-      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cms\cms-web\src\main\resources\static\images" />
+      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\plugins\font-awesome\fonts" />
+      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\js\lay" />
+      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\js\modules" />
+      <recent name="D:\ZXTOP-OA\cms-web\src\main\resources\static\layui\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -337,17 +480,31 @@
       <workItem from="1537160206550" duration="36000" />
       <workItem from="1537173435510" duration="943000" />
       <workItem from="1537178106536" duration="286000" />
+      <workItem from="1537178415111" duration="199000" />
+      <workItem from="1537233562970" duration="1237000" />
+      <workItem from="1537234884199" duration="1344000" />
+      <workItem from="1537258761445" duration="37000" />
+      <workItem from="1538040602501" duration="1373000" />
     </task>
+    <task id="LOCAL-00001" summary="添加layui框架">
+      <created>1537178537935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537178537935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10711000" />
+    <option name="totallyTimeSpent" value="14901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1913" y="0" width="1932" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.14552239" side_tool="true" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.14636752" side_tool="true" visible="true" weight="0.32822758" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -358,15 +515,16 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8544776" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85363245" visible="true" weight="0.32822758" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27403846" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -374,7 +532,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -382,10 +539,9 @@
     <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.8555219" visible="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info id="Image Layers" order="1" />
-      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.8555219" visible="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -410,8 +566,9 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +577,101 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加layui框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加layui框架" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="95" column="65" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="95" column="65" lean-forward="true" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -489,37 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/ServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/CmsWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cms-web/src/test/java/com/zxtop/cms/CmsWebApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -548,24 +768,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/config.js">
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms-web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/ServletInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1417">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/CmsWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="125">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -573,10 +800,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/java/com/zxtop/cms/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="55" column="66" lean-forward="true" selection-start-line="55" selection-start-column="66" selection-end-line="55" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/static/layui/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cms-web/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="100">
+          <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
         </state>
       </provider>
     </entry>
