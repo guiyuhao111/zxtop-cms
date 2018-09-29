@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="commonHeader(title,cssPath,jsPath)">
+    <meta charset="UTF-8">
+    <title>后台管理系统</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <link type="text/css" rel="stylesheet" href="../layui/css/layui.css">
+    <link type="text/css" rel="stylesheet" href="../plugins_font-awesome/css/font-awesome.css">
+    <link type="text/css" rel="stylesheet" href="../common/css/global.css">
+    <link type="text/css" rel="stylesheet" th:href="${cssPath }">
+    <script src="../jquery/jquery.js"></script>
+    <script src="../common/js/common.js"></script>
+    <script src="../layui/layui.js"></script>
+    <script src="../layui/config.js"></script>
+    <script th:src="${jsPath }"></script>
+</head>
+<body>
+<div class="layui-layout layui-layout-admin" th:fragment="layout(fileName)">
+    <div class="layui-header header header-demo" id="layui-header-bg">
+        <div class="layui-main">
+            <div class="admin-login-box">
+                <a class="logo" style="left: 0;" href="">
+                    <img src="../images/logo.png" alt=""><span style="font-size: 22px;color:#fff;">海曙区政协统一管理平台</span>
+                </a>
+
+            </div>
+            <ul class="layui-nav">
+                <li class="layui-nav-item">
+                    <a href="javascript:;" style="color:#fff;">你好今天是2017年10月12日</a>
+                </li>
+                <li class="layui-nav-item" id="xiaoxi">
+                    <img src="../images/message.jpg" alt="">
+                    <a href="#" target="_blank" style="color:#fff">消息</a>
+                </li>
+                <li class="layui-nav-item" id="help">
+                    <img src="../images/help.jpg" alt="">
+                    <a href="#" target="_blank" style="color:#fff">帮助中心</a>
+                </li>
+                <li class="layui-nav-item" id="back">
+                    <img src="../images/back.jpg" alt="">
+                    <a href="" style="color:#fff">退出系统</a>
+                </li>
+
+                <span class="layui-nav-bar"></span>
+            </ul>
+        </div>
+    </div>
+    <ul class="layui-nav layui-nav-tree layui-nav-side" style="top: 70px;" lay-filter="test">
+        <!-- 侧边导航: <ul class="layui-nav layui-nav-tree layui-nav-side"> -->
+        <li class="layui-nav-item layui-nav-itemed">
+            <a href="javascript:;">默认展开</a>
+            <dl class="layui-nav-child">
+                <dd><a href="javascript:;">选项1</a></dd>
+                <dd><a href="javascript:;">选项2</a></dd>
+                <dd><a href="">跳转</a></dd>
+            </dl>
+        </li>
+        <li class="layui-nav-item">
+            <a href="javascript:;"><i class="fa fa-user-circle-o fa-2x" aria-hidden="true" data-icon="fa-podcast"
+                                      id="icon-top"></i><span>用户管理</span></a>
+            <dl class="layui-nav-child">
+                <dd><a href="javascript:;" onclick="changeContentPage('user/userManage')">用户列表</a></dd>
+                <dd><a href="">权限编辑</a></dd>
+                <dd><a href="">角色编辑</a></dd>
+            </dl>
+        <li class="layui-nav-item"><a href="">产品</a></li>
+        <li class="layui-nav-item"><a href="">大数据</a></li>
+    </ul>
+
+    <div class="layui-body" style="bottom: 0;border-left: solid 2px #1AA094;" id="admin-body">
+        <div class="layui-tab admin-nav-card layui-tab-brief" lay-filter="admin-tab">
+            <div class="layui-tab-content" style="min-height: 150px; padding: 5px 0 0 0;">
+                <div class="layui-tab-item layui-show">
+                    <iframe th:src="${fileName }" id="contentPage"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="layui-footer footer footer-demo" id="admin-footer">
+        <div class="layui-main">
+            <p>
+                2016 &copy;
+                <a href="#">版权所有：宁波海曙政协</a>
+            </p>
+        </div>
+    </div>
+    <div class="site-tree-mobile layui-hide">
+        <i class="layui-icon">&#xe602;</i>
+    </div>
+    <div class="site-mobile-shade"></div>
+</div>
+</body>
+</html>

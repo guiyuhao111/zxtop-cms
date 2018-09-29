@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cms-commons" />
+        <module name="cms-dao" />
         <module name="cms-entity" />
         <module name="cms-service" />
         <module name="cms-service-impl" />
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel>
       <module name="cms" target="1.8" />
       <module name="cms-commons" target="1.8" />
+      <module name="cms-dao" target="1.8" />
       <module name="cms-entity" target="1.8" />
       <module name="cms-service" target="1.8" />
       <module name="cms-service-impl" target="1.8" />

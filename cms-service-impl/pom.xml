@@ -22,6 +22,18 @@
             <groupId>com.zxtop</groupId>
             <artifactId>cms-service</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.zxtop</groupId>
+            <artifactId>cms-commons</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.zxtop</groupId>
+            <artifactId>cms-dao</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.zxtop</groupId>
+            <artifactId>cms-entity</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

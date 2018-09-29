@@ -1,39 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
-<head>
-    <meta charset="UTF-8">
-    <title>后台管理系统</title>
-    <link type="text/css" rel="stylesheet" href="../layui/css/layui.css">
-    <script src="css"></script>
-    <script src="../layui/js/layui.js"></script>
-    <style>
-        .f{
-            width: 100%;
-            height: 200px;
-            border: 1px solid red;
-        }
-        .left{
-            width: 100px;
-            display: inline-block;
-            border: 1px solid red;
-            height: 100px;
-        }
-        .right{
-            width: 100px;
-            display: inline-block;
-            border: 1px solid red;
-            height: 100px;
-        }
-    </style>
+<head th:replace="template::commonHeader('首页','../page/css/index.css','../page/js/index.js')">
 </head>
 <body>
-    <div class="f">
-        <div class="left">
+    <div th:replace="template::layout('welcome')">
 
-        </div>
-        <div class="right">
-
-        </div>
     </div>
 </body>
 </html>

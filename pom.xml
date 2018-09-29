@@ -13,6 +13,7 @@
         <module>cms-entity</module>
         <module>cms-service</module>
         <module>cms-service-impl</module>
+        <module>cms-dao</module>
     </modules>
     <name>cms</name>
     <description>Demo project for Spring Boot</description>
@@ -59,6 +60,16 @@
                 <groupId>com.zxtop</groupId>
                 <artifactId>cms-web</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.zxtop</groupId>
+                <artifactId>cms-dao</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mybatis.spring.boot</groupId>
+                <artifactId>mybatis-spring-boot-starter</artifactId>
+                <version>1.3.2</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

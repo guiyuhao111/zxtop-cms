@@ -6,12 +6,5 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class IndexController {
-    @RequestMapping("/index")
-    public String index(){
-        return "index";
-    }
-    @RequestMapping("/")
-    public String toLogin(){
-        return "login";
-    }
+
 }

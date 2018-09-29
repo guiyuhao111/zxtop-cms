@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/cms-service-impl/pom.xml" />
         <option value="$PROJECT_DIR$/cms-entity/pom.xml" />
         <option value="$PROJECT_DIR$/cms-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/cms-dao/pom.xml" />
       </list>
     </option>
   </component>
